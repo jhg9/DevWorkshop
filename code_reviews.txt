@@ -1,0 +1,19 @@
+1. The most important similarity between the two is that the code must be a correct and effective solution. Both sources also 
+say that smaller is better in a code review, so you should not put too much into each pull request and bottleneck everyone’s work. 
+The yelp blog focuses more on how to review the code, pointing out the importance of proper architecture and style along with 
+adequate test coverage, while the VSCode article emphasizes how to interact with other colleagues when reviewing their code. 
+Another difference between the two is that the Yelp page specifies not to make any major changes to the code being reviewed, while 
+the VSCode article does not mention this, instead talking more about the tone and the level of criticism in the review.
+  
+2. https://codereview.stackexchange.com/questions/289445/java-code-to-delete-all-empty-folders-within-a-directory
+This is a good code review because the answerer is not only providing an intricate and thorough solution, but is also providing 
+example code to guide the original asker of the question.
+
+
+3. https://codereview.stackexchange.com/questions/291401/function-that-returns-activation-function-as-well-as-its-derivative
+This code review is very lengthy and does not include much example code, so it makes it difficult for the original asker of the 
+question to understand how their suggestions can be implemented. In order to improve this answer, example code can be included.
+
+
+
+
